@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 ***It was a bright cold day in April***
+=======
+it was a bright cold day in april
+changes done by vidya
+second change done by vidya
+....vvvvvv.........
+>>>>>>> bla bla
